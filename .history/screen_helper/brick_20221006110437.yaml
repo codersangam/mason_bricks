@@ -1,6 +1,6 @@
 name: screen_helper
 description: A new brick created with the Mason CLI.
-repository: https://github.com/codersangam/mason_bricks/tree/main/screen_helper
+repository: 
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
