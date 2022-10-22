@@ -15,6 +15,6 @@ environment:
 vars:
   name:
     type: string
-    description: Enter the name of your feature/screen. [snakecase/lowercase only]
+    description: Enter the name of your feature/screen. [lowercase only]
     default: feature/screen
-    prompt: What is the feature/screen name [snakecase/lowercase only]?
+    prompt: What is the feature/screen name [lowercase only]?
