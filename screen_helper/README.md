@@ -19,9 +19,11 @@ This will create the following folder structure [considering the name of the fea
     profile
     |
     |- -|
+    |   |- profile_model.dart
     |   |- profile.dart
-    |   |- profile_data.dart
+    |   |- profile_view_model.dart
     |   |- profile_imports.dart
+    |   |
     |- widgets
     |   |
     |   |- widgets_imports.dart
