@@ -1,1 +1,1 @@
-
+class {{name.pascalCase()}}Model{}

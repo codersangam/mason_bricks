@@ -10,6 +10,6 @@ class {{name.pascalCase()}} extends StatefulWidget {
 class _{{name.pascalCase()}}State extends State<{{name.pascalCase()}}> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return const Scaffold();
   }
 }

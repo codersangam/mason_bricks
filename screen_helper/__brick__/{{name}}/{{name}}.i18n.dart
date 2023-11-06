@@ -14,5 +14,5 @@ extension Localization on String {
       };
 
   String get i18n => localize(this, _t);
-  String plural(value) => localizePlural(value, this, _t);
+  String fill(List<Object> params) => localizeFill(this, params);
 }
