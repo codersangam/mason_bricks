@@ -1,7 +1,7 @@
 part of '{{name}}_imports.dart';
 
 extension Localization on String {
-  static var _t = Translations.byText('en_us') +
+  static final _t = Translations.byText('en_us') +
       {
         "en_us": "Hello",
         "ne_np": "नमस्ते",
